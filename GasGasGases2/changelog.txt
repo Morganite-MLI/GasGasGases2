@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 3.0.1
+Date: 7.11.2026
+  Compatibility:
+    - Updated for 2.1 (Thanks pla)
+    - Refactored to use bzlib (Also thanks pla)
+  Locale:
+    - Added some Polish localizations from S3BA
+---------------------------------------------------------------------------------------------------
 Version: 2.0.5
 Date: 16.03.2026
   Bug Fixes:
